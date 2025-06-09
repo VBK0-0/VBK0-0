@@ -45,7 +45,7 @@ Stay tuned as I build and upload these projects to share my learning journey wit
 ### 📫 Let's Connect
 
 - 📧 Email: [varjulabalakrishna2002@gmail.com]
-- 💼 LinkedIn: [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/varjula-balakrishna-5422861a6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZJOKuq%2F4SnKqJ6xGK1Tvzw%3D%3D))
+- 💼 LinkedIn:[https://www.linkedin.com/in/varjula-balakrishna-5422861a6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZJOKuq%2F4SnKqJ6xGK1Tvzw%3D%3D]
 - 📁 Resume: Coming Soon
 
 ---
