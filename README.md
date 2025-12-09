@@ -1,142 +1,133 @@
 <h1 align="center">Hi 👋, I'm Varjula Balakrishna</h1>
-<h3 align="center">Digital Design | RISC-V | ASIC / FPGA | Verification Enthusiast</h3>
+<h3 align="center">Aspiring Digital Design & Verification Engineer | RTL • RISC-V • UVM • FPGA</h3>
 
 ---
 
-🎯 **Aspiring Digital / RTL / Verification Engineer**  
-Passionate about building **high-performance digital systems**, understanding **chip architecture**, and designing **robust testbench environments**.  
-Focused on RTL development, verification, RISC-V architecture, and ASIC design flows.
+<p align="center">
+  <img src="https://img.shields.io/badge/RTL%20Design-Verilog%20%7C%20SystemVerilog-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Verification-UVM%20%7C%20SVA-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EDA%20Tools-VCS%20%7C%20QuestaSim%20%7C%20ModelSim-brightgreen?style=for-the-badge" />
+</p>
 
 ---
 
-## 🚀 What I Do
+## 🔧 About Me
 
-- 🔧 **RTL Design** using Verilog & SystemVerilog  
-- 🧪 **Verification** using SystemVerilog, UVM  
-- ⚙️ **ASIC & SoC Flow Understanding** – Synthesis → STA → PnR → DFT  
-- 🖥 **RISC-V microarchitecture implementation**  
-- 🧩 **Digital logic design & protocol implementation**  
-- 🎛 **FPGA design & prototyping**  
-- 🛠 **Tool Automation** using Python, TCL, Makefiles  
+I’m passionate about **Digital System Design, Verification, RISC-V Architecture, FPGA Development, and Physical Design concepts**.  
+I love translating hardware ideas into **clean RTL**, verifying them with **UVM**, and debugging waveforms until everything matches the spec.
+
+Actively preparing for roles in:
+
+- **ASIC/FPGA Design**
+- **Pre-Silicon Verification (UVM/SV)**
+- **RISC-V Development**
+- **Synthesis + STA (Beginner)**
+- **SoC/Subsystem Verification**
 
 ---
 
-## 🧠 Skills & Tools
+## 🛠️ Skills & Tools
 
-### **Hardware Design**
+### **💡 Design**
 - Verilog HDL  
-- SystemVerilog (RTL + Assertions + Testbench)  
-- RISC-V ISA & Microarchitecture  
-- Low-Power Design Concepts  
-- FSM, Pipelining, CDC, Reset Strategies  
+- SystemVerilog (RTL + Assertions)
 
-### **Verification**
-- UVM Methodology  
-- Constrained Random Testing  
-- Coverage Driven Verification (CDV)  
-- SystemVerilog Assertions (SVA)  
-- Scoreboards, Functional Coverage  
+### **🔍 Verification**
+- UVM Testbench Architecture  
+- Functional & Code Coverage  
+- SystemVerilog Assertions (SVA)
 
-### **ASIC / VLSI Flow**
-- Synthesis (Design Compiler)  
-- Static Timing Analysis (PrimeTime)  
-- Physical Design Basics (PnR, Floorplan, CTS, Routing)  
-- DFT, Scan, ATPG Concepts  
-
-### **Simulation / EDA Tools**
+### **🧪 EDA Tools**
 - Synopsys VCS  
-- Cadence Xcelium (planned)  
-- ModelSim / QuestaSim  
-- Vivado, Quartus Prime  
+- Cadence Xcelium (learning)  
+- QuestaSim / ModelSim  
+- GTKWave / DVE
 
-### **Scripting & Automation**
+### **⚡ Physical Design (Beginner)**
+- Synthesis & Constraints (Basics)  
+- Timing Diagrams, STA Concepts  
+- Floorplanning & PnR Fundamentals
+
+### **🖥️ FPGA**
+- Xilinx Vivado  
+- Intel Quartus  
+- Zynq / Cyclone Boards
+
+### **📜 Scripting**
 - Python  
 - TCL  
-- Bash / Shell  
 - Makefiles  
+- Bash
+
+### **📂 Version Control**
+- Git & GitHub  
+- Markdown Documentation
 
 ---
 
-## 🛠️ Projects (Current & Upcoming)
+## 🚀 Projects (Current & Upcoming)
 
-Here are the projects designed to reflect what **Intel / NVIDIA / Qualcomm** expect:
+### **1️⃣ RISC-V 5-Stage Pipeline CPU (Ongoing)**
+- Fetch → Decode → Execute → Memory → Writeback  
+- Hazard detection + forwarding logic  
+- Branch prediction (static/BTB planned)  
+- Full UVM testbench planned
 
-### 🔥 **RISC-V Based Projects (High-Impact)**
-- 🚀 **5-Stage Pipelined RISC-V Processor (RV32I)**
-  - Hazard detection & forwarding  
-  - Branch prediction (static / dynamic)  
-  - Instruction & data memory interface  
-- 🧪 **UVM Testbench for RISC-V Core with Coverage Collection**
+### **2️⃣ Synchronous FIFO (SV)**
+- Parameterized depth/width  
+- Full/Empty/Almost flags  
+- Scoreboard + randomized tests (UVM-lite)
+
+### **3️⃣ Asynchronous FIFO with Gray Code**
+- Dual-clock domain  
+- Pointer synchronization  
+- Functional + CDC verification
+
+### **4️⃣ AXI4-Lite Slave Interface**
+- RTL implementation  
+- UVM agent for AXI driver/monitor  
+- Coverage-driven tests
+
+### **5️⃣ SPI Protocol Verification (UVM)**
+- UVM Agent (Sequencer/Driver/Monitor)  
+- Scoreboard + functional coverage  
+- Multiple modes (CPOL/CPHA)
+
+### **6️⃣ Stopwatch on FPGA (FSM)**
+- Clean state machine design  
+- 7-segment display driver  
+- Synthesized + tested on board
 
 ---
 
-### 📡 **Communication Protocols**
-- 🔗 **AXI4-Lite Slave Interface (Synthesizable RTL)**
-- 🔍 **UVM Agent for AXI4 / APB / SPI (Configurable)**
-- 📶 **UART + SPI + I2C Controller Implementations**
+## 📊 Stable GitHub Overview (No Broken Services)
 
----
+### ✔️ **Profile Summary Cards (Stable)**
 
-### 📦 **Memory & FIFO Designs**
-- 📥 **Synchronous FIFO (Parameterized)**
-- 📤 **Asynchronous FIFO with Gray Code Pointers**
-- 🧪 **UVM Testbench with Coverage + Assertions for FIFO**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VBK0-0&theme=radical" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VBK0-0&theme=radical" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VBK0-0&theme=radical" />
+</p>
 
----
+### ✔️ **GitHub Trophy (Stable)**
 
-### 💡 **FPGA / Digital System Designs**
-- ⏱ **Stopwatch using FSM (FPGA Implementation)**  
-- 🔢 **ALU Design with Pipeline Stages**  
-- 🧩 **Traffic Light Controller (Moore/Mealy FSM)**  
-
----
-
-### ⚙️ **Verification & Automation**
-- 🧪 **Reusable UVM Verification Environment Template**  
-- 🛠 **Python-Based Waveform Analyzer (planned)**  
-- 🔄 **Automation Scripts for Simulation & Regression**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VBK0-0&theme=radical&no-frame=true" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: **varjulabalakrishna2002@gmail.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/varjula-balakrishna-5422861a6/  
-- 📁 Resume: *Coming Soon*  
+- 📧 **Email:** varjulabalakrishna2002@gmail.com  
+- 💼 **LinkedIn:**  
+  https://www.linkedin.com/in/varjula-balakrishna-5422861a6/
 
 ---
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VBK0-0&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VBK0-0&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VBK0-0&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VBK0-0&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VBK0-0&theme=radical)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=VBK0-0&theme=radical&no-frame=true&no-bg=false)
-
-
-### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VBK0-0&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VBK0-0&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VBK0-0&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VBK0-0&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VBK0-0&theme=radical" />
+  ⚡ <i>Designing and verifying digital logic — one module at a time.</i>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VBK0-0&theme=radical&no-frame=true&no-bg=false" />
-</p>
-
-
----
-
-## ⚡ Fun Fact
-
-I enjoy debugging waveforms, optimizing pipelines, and writing assertions more than most people enjoy Netflix 😄
-
----
-
-<p align="center">🚀 Building digital systems, one line of HDL at a time.</p>
