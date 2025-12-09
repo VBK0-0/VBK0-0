@@ -118,6 +118,59 @@ Actively preparing for roles in:
   <img src="https://github-profile-trophy.vercel.app/?username=VBK0-0&theme=radical&no-frame=true" />
 </p>
 
+
+<!-- 🌟 Center Everything -->
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-mirrors.vercel.app/api?username=VBK0-0&show_icons=true&theme=radical" height="180" />
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=VBK0-0&theme=radical" height="180" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-mirrors.vercel.app/api/top-langs/?username=VBK0-0&layout=compact&theme=radical" />
+</p>
+
+---
+
+<!-- 🏆 GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VBK0-0&theme=radical&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+<!-- 📈 Contribution Graph (Reliable Mirror) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VBK0-0&theme=redical" />
+</p>
+
+---
+
+<!-- 📝 Profile Summary Cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VBK0-0&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VBK0-0&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VBK0-0&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VBK0-0&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VBK0-0&theme=radical" />
+</p>
+
+---
+
+<!-- 🐍 Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VBK0-0/VBK0-0/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+---
+
+<!-- 🟩 3D Contribution Graph -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VBK0-0/VBK0-0/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
+
+
 ---
 
 ## 📫 Connect With Me
