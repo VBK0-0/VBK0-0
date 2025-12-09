@@ -52,13 +52,11 @@ Stay tuned as I build and upload these projects to share my learning journey wit
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VBK0-0&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VBK0-0&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-
   <img src="https://streak-stats.demolab.com/?user=VBK0-0&theme=radical" alt="GitHub Streak" />
   <br />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VBK0-0&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VBK0-0&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 
