@@ -26,101 +26,55 @@ Actively preparing for roles in:
 
 ---
 
-## 🛠️ Skills & Tools 
+## 🛠️ Skills & Tools (Chip-Themed)
 
-### **💡 Design**
-- `Verilog HDL`  
-- `SystemVerilog` (RTL + Assertions)
-
-### **🔍 Verification**
-- `UVM Testbench Architecture`  
-- `Functional & Code Coverage`  
-- `SystemVerilog Assertions (SVA)`
-
-### **🧪 EDA Tools**
-- Synopsys VCS  
-- Cadence Xcelium (learning)  
-- QuestaSim / ModelSim  
-- GTKWave / DVE
-
-### **⚡ Physical Design (Beginner)**
-- Synthesis & Constraints (Basics)  
-- Timing Diagrams, STA Concepts  
-- Floorplanning & PnR Fundamentals
-
-### **🖥️ FPGA**
-- Xilinx Vivado  
-- Intel Quartus  
-- Zynq / Cyclone Boards
-
-### **📜 Scripting**
-- Python  
-- TCL  
-- Makefiles  
-- Bash
-
-### **📂 Version Control**
-- Git & GitHub  
-- Markdown Documentation
+- **Design:** `Verilog HDL`, `SystemVerilog` (RTL + Assertions)  
+- **Verification:** `UVM Testbench Architecture`, `Functional & Code Coverage`, `SystemVerilog Assertions`  
+- **EDA Tools:** Synopsys VCS, Cadence Xcelium (learning), QuestaSim / ModelSim, GTKWave / DVE  
+- **Physical Design (Beginner):** Synthesis & Constraints, Timing Diagrams, STA, Floorplanning & PnR  
+- **FPGA:** Xilinx Vivado, Intel Quartus, Zynq / Cyclone Boards  
+- **Scripting:** Python, TCL, Makefiles, Bash  
+- **Version Control:** Git & GitHub, Markdown Documentation  
 
 ---
 
-## 🚀 Projects 
+## 🚀 Projects
 
-### **1️⃣ RISC-V 5-Stage Pipeline CPU (Ongoing)**
-- Fetch → Decode → Execute → Memory → Writeback  
-- Hazard detection + forwarding logic  
-- Branch prediction (static/BTB planned)  
-- Full UVM testbench planned
-
-### **2️⃣ Synchronous FIFO (SV)**
-- Parameterized depth/width  
-- Full/Empty/Almost flags  
-- Scoreboard + randomized tests (UVM-lite)
-
-### **3️⃣ Asynchronous FIFO with Gray Code**
-- Dual-clock domain  
-- Pointer synchronization  
-- Functional + CDC verification
-
-### **4️⃣ AXI4-Lite Slave Interface**
-- RTL implementation  
-- UVM agent for AXI driver/monitor  
-- Coverage-driven tests
-
-### **5️⃣ SPI Protocol Verification (UVM)**
-- UVM Agent (Sequencer/Driver/Monitor)  
-- Scoreboard + functional coverage  
-- Multiple modes (CPOL/CPHA)
-
-### **6️⃣ Stopwatch on FPGA (FSM)**
-- Clean state machine design  
-- 7-segment display driver  
-- Synthesized + tested on board
+- **RISC-V 5-Stage Pipeline CPU:** Fetch → Decode → Execute → Memory → Writeback, hazard detection, forwarding logic, branch prediction (planned), UVM testbench.  
+- **Synchronous FIFO (SV):** Parameterized depth/width, full/empty/almost flags, UVM-lite tests.  
+- **Asynchronous FIFO with Gray Code:** Dual-clock, pointer sync, functional + CDC verification.  
+- **AXI4-Lite Slave Interface:** RTL + UVM agent, coverage-driven tests.  
+- **SPI Protocol Verification (UVM):** Agent, scoreboard, functional coverage, multiple modes.  
+- **Stopwatch on FPGA (FSM):** Clean state machine, 7-segment driver, synthesized + tested on board.  
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats & VLSI Theme (Fully Stable)
 
 <p align="center">
-  <img src="https://github-readme-stats-mirrors.vercel.app/api?username=VBK0-0&show_icons=true&theme=dark" height="180" />
-  <img src="https://streak-stats.demolab.com?user=VBK0-0&theme=dark" height="180" />
-  <img src="https://github-readme-stats-mirrors.vercel.app/api/top-langs/?username=VBK0-0&layout=compact&theme=dark" />
+  <!-- Profile Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VBK0-0&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VBK0-0&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VBK0-0&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VBK0-0&theme=dark&margin-w=15&margin-h=15" />
+  <!-- GitHub Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=VBK0-0&theme=dark&no-frame=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VBK0-0&theme=dark" />
+  <!-- Contribution Graph (Stable) -->
+  <img src="https://ghchart.rshah.org/VBK0-0" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VBK0-0/VBK0-0/output/github-contribution-grid-snake.svg" alt="snake" />
+  <!-- Snake Animation (Self-hosted) -->
+  <img src="https://raw.githubusercontent.com/VBK0-0/VBK0-0/main/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 <p align="center">
+  <!-- 3D Contribution Graph (Self-hosted) -->
   <img src="https://raw.githubusercontent.com/VBK0-0/VBK0-0/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
