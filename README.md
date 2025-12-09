@@ -106,16 +106,30 @@ Here are the projects designed to reflect what **Intel / NVIDIA / Qualcomm** exp
 
 ---
 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VBK0-0&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VBK0-0&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VBK0-0&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VBK0-0&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VBK0-0&theme=radical)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=VBK0-0&theme=radical&no-frame=true&no-bg=false)
+
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VBK0-0&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=VBK0-0&theme=radical" width="48%"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VBK0-0&layout=compact&theme=radical" />
-  <br/>
-  <img src="https://metrics.lecoq.io/VBK0-0?template=classic&config.timezone=Asia%2FKolkata" alt="Metrics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VBK0-0&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VBK0-0&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VBK0-0&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VBK0-0&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VBK0-0&theme=radical" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VBK0-0&theme=radical&no-frame=true&no-bg=false" />
+</p>
+
 
 ---
 
