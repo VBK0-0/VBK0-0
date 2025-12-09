@@ -1,55 +1,112 @@
 <h1 align="center">Hi 👋, I'm Varjula Balakrishna</h1>
-<h3 align="center">Electronics Engineer | RTL Design & Verification Enthusiast</h3>
+<h3 align="center">Digital Design | RISC-V | ASIC / FPGA | Verification Enthusiast</h3>
 
 ---
 
-🔧 Passionate about building and verifying digital systems using industry-standard HDLs and methodologies.
-
-🔬 Currently focusing on **RTL Design**, **Verification**, and **Testbench Automation** using:
-
-- **Verilog HDL**
-- **SystemVerilog**
-- **UVM (Universal Verification Methodology)**
-- **Digital Design Fundamentals**
-- **FPGA Programming (Xilinx, Intel/Altera)**
-- **VCS / ModelSim / QuestaSim Simulation Tools**
+🎯 **Aspiring Digital / RTL / Verification Engineer**  
+Passionate about building **high-performance digital systems**, understanding **chip architecture**, and designing **robust testbench environments**.  
+Focused on RTL development, verification, RISC-V architecture, and ASIC design flows.
 
 ---
 
-### 🧠 Skills and Tools
+## 🚀 What I Do
 
-- **Design Languages**: `Verilog`, `SystemVerilog`
-- **Verification**: `UVM`, `SystemVerilog Assertions (SVA)`
-- **Scripting & Automation**: `TCL`, `Python`, `Makefiles`
-- **Simulation Tools**: `Synopsys VCS`, `ModelSim`, `QuestaSim`
-- **FPGA Platforms**: `Vivado`, `Quartus Prime`, `Zynq SoCs`
-- **Version Control**: `Git`, `GitHub`
-- **Documentation**: `Markdown`, `LaTeX`
-
----
-
-### 🛠️ Projects
-
-Here are some of the key projects I’m working on / plan to share soon:
-
-- ✅ **AXI4-Lite Protocol Implementation in Verilog**
-- 🧪 **UVM-Based Testbench for ALU**
-- 🧩 **Design and Verification of FIFO using SystemVerilog & UVM**
-- ⏱️ **Stopwatch on FPGA using FSM Design**
-- 🔍 **UVM Agent for SPI Protocol Verification**
-
-Stay tuned as I build and upload these projects to share my learning journey with the community!
+- 🔧 **RTL Design** using Verilog & SystemVerilog  
+- 🧪 **Verification** using SystemVerilog, UVM  
+- ⚙️ **ASIC & SoC Flow Understanding** – Synthesis → STA → PnR → DFT  
+- 🖥 **RISC-V microarchitecture implementation**  
+- 🧩 **Digital logic design & protocol implementation**  
+- 🎛 **FPGA design & prototyping**  
+- 🛠 **Tool Automation** using Python, TCL, Makefiles  
 
 ---
 
-### 📫 Let's Connect
+## 🧠 Skills & Tools
 
-- 📧 Email: [varjulabalakrishna2002@gmail.com]
-- 💼 LinkedIn:[https://www.linkedin.com/in/varjula-balakrishna-5422861a6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZJOKuq%2F4SnKqJ6xGK1Tvzw%3D%3D]
-- 📁 Resume: Coming Soon
+### **Hardware Design**
+- Verilog HDL  
+- SystemVerilog (RTL + Assertions + Testbench)  
+- RISC-V ISA & Microarchitecture  
+- Low-Power Design Concepts  
+- FSM, Pipelining, CDC, Reset Strategies  
+
+### **Verification**
+- UVM Methodology  
+- Constrained Random Testing  
+- Coverage Driven Verification (CDV)  
+- SystemVerilog Assertions (SVA)  
+- Scoreboards, Functional Coverage  
+
+### **ASIC / VLSI Flow**
+- Synthesis (Design Compiler)  
+- Static Timing Analysis (PrimeTime)  
+- Physical Design Basics (PnR, Floorplan, CTS, Routing)  
+- DFT, Scan, ATPG Concepts  
+
+### **Simulation / EDA Tools**
+- Synopsys VCS  
+- Cadence Xcelium (planned)  
+- ModelSim / QuestaSim  
+- Vivado, Quartus Prime  
+
+### **Scripting & Automation**
+- Python  
+- TCL  
+- Bash / Shell  
+- Makefiles  
 
 ---
-### 📊 GitHub Stats
+
+## 🛠️ Projects (Current & Upcoming)
+
+Here are the projects designed to reflect what **Intel / NVIDIA / Qualcomm** expect:
+
+### 🔥 **RISC-V Based Projects (High-Impact)**
+- 🚀 **5-Stage Pipelined RISC-V Processor (RV32I)**
+  - Hazard detection & forwarding  
+  - Branch prediction (static / dynamic)  
+  - Instruction & data memory interface  
+- 🧪 **UVM Testbench for RISC-V Core with Coverage Collection**
+
+---
+
+### 📡 **Communication Protocols**
+- 🔗 **AXI4-Lite Slave Interface (Synthesizable RTL)**
+- 🔍 **UVM Agent for AXI4 / APB / SPI (Configurable)**
+- 📶 **UART + SPI + I2C Controller Implementations**
+
+---
+
+### 📦 **Memory & FIFO Designs**
+- 📥 **Synchronous FIFO (Parameterized)**
+- 📤 **Asynchronous FIFO with Gray Code Pointers**
+- 🧪 **UVM Testbench with Coverage + Assertions for FIFO**
+
+---
+
+### 💡 **FPGA / Digital System Designs**
+- ⏱ **Stopwatch using FSM (FPGA Implementation)**  
+- 🔢 **ALU Design with Pipeline Stages**  
+- 🧩 **Traffic Light Controller (Moore/Mealy FSM)**  
+
+---
+
+### ⚙️ **Verification & Automation**
+- 🧪 **Reusable UVM Verification Environment Template**  
+- 🛠 **Python-Based Waveform Analyzer (planned)**  
+- 🔄 **Automation Scripts for Simulation & Regression**
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **varjulabalakrishna2002@gmail.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/varjula-balakrishna-5422861a6/  
+- 📁 Resume: *Coming Soon*  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VBK0-0&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -59,13 +116,12 @@ Stay tuned as I build and upload these projects to share my learning journey wit
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VBK0-0&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+---
+
+## ⚡ Fun Fact
+
+I enjoy debugging waveforms, optimizing pipelines, and writing assertions more than most people enjoy Netflix 😄
 
 ---
 
-### ⚡ Fun Fact
-
-I enjoy digging deep into timing diagrams and debugging waveforms more than most people enjoy Netflix 😄
-
----
-
-<p align="center">⚡ Empowering digital design, one line of HDL at a time.</p>
+<p align="center">🚀 Building digital systems, one line of HDL at a time.</p>
