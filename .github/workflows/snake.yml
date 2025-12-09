@@ -1,0 +1,14 @@
+name: GitHub Snake
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate Contribution Snake
+        uses: VBK0-0/github-contribution-grid-snake-action@main
+        with:
+          file: ./output/github-contribution-grid-snake.svg
