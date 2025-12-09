@@ -64,11 +64,6 @@ Actively preparing for roles in:
 </p>
 
 <p align="center">
-  <!-- Contribution Graph (Stable) -->
-  <img src="https://ghchart.rshah.org/VBK0-0" alt="Contribution Graph" />
-</p>
-
-<p align="center">
   <!-- Snake Animation (Self-hosted) -->
   <img src="https://raw.githubusercontent.com/VBK0-0/VBK0-0/main/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
