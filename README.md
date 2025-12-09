@@ -26,7 +26,7 @@ Actively preparing for roles in:
 
 ---
 
-## 🛠️ Skills & Tools (Chip-Themed)
+## 🛠️ Skills & Tools 
 
 ### **💡 Design**
 - `Verilog HDL`  
@@ -65,7 +65,7 @@ Actively preparing for roles in:
 
 ---
 
-## 🚀 Projects (Chip-Style Highlights)
+## 🚀 Projects 
 
 ### **1️⃣ RISC-V 5-Stage Pipeline CPU (Ongoing)**
 - Fetch → Decode → Execute → Memory → Writeback  
@@ -100,7 +100,7 @@ Actively preparing for roles in:
 
 ---
 
-## 📊 GitHub Stats & Chip-Themed Visuals
+## 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats-mirrors.vercel.app/api?username=VBK0-0&show_icons=true&theme=dark" height="180" />
