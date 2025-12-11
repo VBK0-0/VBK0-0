@@ -58,21 +58,6 @@ Actively preparing for roles in:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VBK0-0&theme=dark" />
 </p>
 
-<p align="center">
-  <!-- GitHub Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=VBK0-0&theme=dark&no-frame=true" />
-</p>
-
-<p align="center">
-  <!-- Snake Animation (Self-hosted) -->
-  <img src="https://raw.githubusercontent.com/VBK0-0/VBK0-0/main/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
-<p align="center">
-  <!-- 3D Contribution Graph (Self-hosted) -->
-  <img src="https://raw.githubusercontent.com/VBK0-0/VBK0-0/main/profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
-
 ---
 
 ## 📫 Connect With Me
