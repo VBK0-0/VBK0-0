@@ -26,7 +26,7 @@ Actively preparing for roles in:
 
 ---
 
-## 🛠️ Skills & Tools (Chip-Themed)
+## 🛠️ Skills & Tools 
 
 - **Design:** `Verilog HDL`, `SystemVerilog` (RTL + Assertions)  
 - **Verification:** `UVM Testbench Architecture`, `Functional & Code Coverage`, `SystemVerilog Assertions`  
@@ -49,7 +49,7 @@ Actively preparing for roles in:
 
 ---
 
-## 📊 GitHub Stats & VLSI Theme (Fully Stable)
+## 📊 GitHub Stats & VLSI Theme 
 
 <p align="center">
   <!-- Profile Summary Cards -->
