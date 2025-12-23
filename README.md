@@ -49,14 +49,18 @@ Actively preparing for roles in:
 
 ---
 
-## 📊 GitHub Stats & VLSI Theme 
+## 📊 GitHub Stats 
 
 <p align="center">
-  <!-- Profile Summary Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VBK0-0&theme=dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VBK0-0&theme=dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VBK0-0&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VBK0-0&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VBK0-0&layout=compact&theme=dark" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VBK0-0&theme=react-dark" />
+</p>
+
+
 
 ---
 
