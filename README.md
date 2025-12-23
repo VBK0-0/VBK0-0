@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/RTL%20Design-Verilog%20%7C%20SystemVerilog-green?style=for-the-badge&logo=verilog" />
   <img src="https://img.shields.io/badge/Verification-UVM%20%7C%20SVA-red?style=for-the-badge&logo=unity" />
-  <img src="https://img.shields.io/badge/EDA%20Tools-VCS%20%7C%20QuestaSim%20%7C%20ModelSim-yellowgreen?style=for-the-badge&logo=gnu" />
+  <img src="https://img.shields.io/badge/EDA%20Tools-Xilinx%20%7C%20QuestaSim%20%7C%20ModelSim-yellowgreen?style=for-the-badge&logo=gnu" />
 </p>
 
 ---
