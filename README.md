@@ -42,7 +42,6 @@ Actively preparing for roles in:
 
 ## 🚀 Projects
 
-
 ### 🔹 RISC-V 32-bit 5-Stage Pipelined Processor  
 **Verilog HDL | Xilinx Vivado**
 
@@ -56,10 +55,10 @@ Actively preparing for roles in:
 ### 🔹 Hybrid-Approx-FIR-ASIC: RTL to GDSII  
 **Verilog HDL | OpenLane | SkyWater 130nm | Xilinx Vivado**
 
-- Designed Exact, 1-Error, and 2-Error Approximate 4:2 Compressors using sorting networks for FIR filters and MAC units.
-- Executed a complete open-source **RTL-to-GDSII physical design flow** using OpenLane and the Sky130 PDK.
-- Identified and resolved the CMOS "XOR Trap" by manually mapping RTL to high-speed **AOI compound standard cells**, improving the critical path to 5.54 ns.
-- Validated designs on FPGA and established a Pareto optimization frontier between Silicon Area (1-Error) and Dynamic Power/Speed (2-Error).
+- Designed Exact, 1-Error, and 2-Error Approximate 4:2 Compressors using sorting networks for MAC pipelines.
+- Executed a complete open-source **RTL-to-GDSII physical design flow** using OpenLane and the Sky130 High-Density PDK.
+- Discovered the physical CMOS **"XOR Trap"** where mathematically smaller 2-Error architectures consume more ASIC standard-cell area than 1-Error variants due to complex routing penalties.
+- Proved the 2-Error design achieves **99% higher system-level accuracy** via statistical error decorrelation, making it the superior architecture for FPGAs (LUTs) and high-fidelity DSP applications.
 
 ---
 
